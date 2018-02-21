@@ -256,6 +256,8 @@ Awesome 系列虽然挺全，但基本只对收录的资源做了极为简要的
     *   python-prompt-toolkit：一个用于构建强大的交互式命令行程序的库。[官网](https://github.com/jonathanslenders/python-prompt-toolkit)
     *   python-fire：Google 出品的一个基于 Python 类的构建命令行界面的库。[官网](https://github.com/google/python-fire)
     *   [Pythonpy](http://hao.jobbole.com/pythonpy/)：在命令行中直接执行任何 Python 指令。[官网](https://github.com/Russell91/pythonpy/wiki)
+    *   PrettyTable：通过PrettyTable模块可以将输出内容如表格方式整齐地输出。[官网](http://code.google.com/p/prettytable/)
+
 *   生产力工具
     *   aws-cli：Amazon Web Services 的通用命令行界面。[官网](https://github.com/aws/aws-cli)
     *   bashplotlib：在终端中进行基本绘图。[官网](https://github.com/glamp/bashplotlib)
